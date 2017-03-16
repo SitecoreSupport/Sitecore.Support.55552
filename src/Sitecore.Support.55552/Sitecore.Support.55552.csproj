@@ -55,7 +55,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Config\Include\zzz\Sitecore.Support.55552.config" />
-    <Content Include="App_Config\sitecore\shell\client\Sitecore\Speak\Ribbon\Assets\Styles\Generated\SpeakRibbon.css">
+    <Content Include="sitecore\shell\client\Sitecore\Speak\Ribbon\Assets\Styles\Generated\SpeakRibbon.css">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
